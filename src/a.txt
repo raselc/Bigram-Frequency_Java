@@ -1,0 +1,13 @@
+Loola nikee. Aloka bibi vo. Vo bibi loola. Loola nikee bibi vo. Vo. Vo. Aloka bibi loola. Loola aloka aloka. Loola 
+loola. Nikee nikee nikee. Bibi vo. Bibi vo. Vo Vo. Nikee loola.
+
+
+
+
+
+		loola	nikee	aloka	bibi	vo
+loola		111	111	1		
+nikee		1	11	1	11	
+aloka		1		1	11	
+bibi		11				1111
+vo			1	1	11	11111

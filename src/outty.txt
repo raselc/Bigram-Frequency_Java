@@ -1,0 +1,24 @@
+Total words  : 33
+Total bigrams: 22
+vo Vo	 	3
+bibi vo	 	2
+Vo Vo	 	2
+loola Loola	 	2
+Loola nikee	 	2
+Aloka bibi	 	2
+bibi loola	 	2
+Bibi vo	 	2
+Vo Nikee	 	1
+Nikee nikee	 	1
+Loola aloka	 	1
+vo Bibi	 	1
+nikee bibi	 	1
+Nikee loola	 	1
+nikee nikee	 	1
+nikee Aloka	 	1
+nikee Bibi	 	1
+Vo bibi	 	1
+aloka Loola	 	1
+aloka aloka	 	1
+Vo Aloka	 	1
+loola Nikee	 	1

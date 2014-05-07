@@ -1,0 +1,11 @@
+Total Tokens : 13
+Total bigrams: 9
+going to	 	2
+to the	 	2
+are going	 	2
+the market	 	1
+you are	 	1
+toilet and	 	1
+i are	 	1
+the toilet	 	1
+and you	 	1
